@@ -2,7 +2,7 @@ export const projects = [
     {
         title: "E-Commerce WebApp",
         type:"Main Project",
-        logo: "../../../../src/assets/Images/ecommerce.png",
+        logo: "./Images/ecommerce.png",
         fearued: true,
         links: {
                 frontEnd: "https://github.com/thenamevishnu/vestido",
@@ -11,7 +11,7 @@ export const projects = [
     },{
         title: "Freelance WebApp",
         type:"Main Project",
-        logo: "../../../../src/assets/Images/freelance.png",
+        logo: "./Images/freelance.png",
         fearued: true,
         links: {
                 frontEnd: "https://github.com/thenamevishnu/Job-sector-client-side",
@@ -20,7 +20,7 @@ export const projects = [
     },{
         title: "Netflix Clone",
         type:"Mini Project",
-        logo: "../../../../src/assets/Images/netflix.jpg",
+        logo: "./Images/netflix.jpg",
         fearued: false,
         links: {
                 frontEnd: "https://github.com/thenamevishnu/NetFlix-Clone",
@@ -29,7 +29,7 @@ export const projects = [
     },{
         title: "URL Shorterner",
         type:"Mini Project",
-        logo: "../../../../src/assets/Images/urlshort.png",
+        logo: "./Images/urlshort.png",
         fearued: false,
         links: {
                 frontEnd: "https://github.com/thenamevishnu/URL-Shortener-Client",
@@ -38,7 +38,7 @@ export const projects = [
     },{
         title: "ToDo List",
         type:"Mini Project",
-        logo: "../../../../src/assets/Images/todolist.png",
+        logo: "./Images/todolist.png",
         fearued: false,
         links: {
                 frontEnd: "https://github.com/thenamevishnu/ToDo-List",
@@ -47,7 +47,7 @@ export const projects = [
     },{
         title:"Black Board",
         type:"Mini Project",
-        logo:"../../../../src/assets/Images/board.png",
+        logo:"./Images/board.png",
         fearued: false,
         links:{
             frontEnd: "https://github.com/thenamevishnu/Black-Board",
@@ -56,7 +56,7 @@ export const projects = [
     },{
         title:"Music Player",
         type:"Mini Project",
-        logo:"../../../../src/assets/Images/music.png",
+        logo:"./Images/music.png",
         fearued: false,
         links:{
             frontEnd: "https://github.com/thenamevishnu/music-player",
@@ -65,7 +65,7 @@ export const projects = [
     },{
         title: "Tinker Hub Clone",
         type:"Static Webpage",
-        logo: "../../../../src/assets/Images/tinkerhub.png",
+        logo: "./Images/tinkerhub.png",
         fearued: false,
         links: {
                 frontEnd: "https://github.com/thenamevishnu/TinkerHub_Clone",
@@ -74,7 +74,7 @@ export const projects = [
     },{
         title: "Volvo Cars Clone",
         type:"Static Webpage",
-        logo: "../../../../src/assets/Images/volvocars.jpg",
+        logo: "./Images/volvocars.jpg",
         fearued: false,
         links: {
                 frontEnd: "https://github.com/thenamevishnu/volvo-cars",
@@ -83,7 +83,7 @@ export const projects = [
     },{
         title: "Apple Clone",
         type:"Static Webpage",
-        logo: "../../../../src/assets/Images/apple.jpg",
+        logo: "./Images/apple.jpg",
         fearued: false,
         links: {
                 frontEnd: "https://github.com/thenamevishnu/Apple_clone",
